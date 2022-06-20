@@ -25,3 +25,4 @@ for increment in range(0, 7):
 print(" The program run successfully and there are no error.")
 #------------------------------------------------------
 print("First modification for the 2nd commit")
+print("Added this line from the GitHub website for the first time")
