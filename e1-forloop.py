@@ -40,3 +40,5 @@ print("First modification for the 2nd commit")
 print("Added this line of code from techdevelopers from git terminal")
 #------------------------------------------------------
 print("Added 1st line from techTeam1 on GitHub")
+#------------------------------------------------------
+print("Added 2nd line from techTeam1 on GitHub")
